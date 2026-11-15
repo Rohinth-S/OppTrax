@@ -4,14 +4,17 @@ OppTrax is a bilingual (English + Hindi) WhatsApp and Web AI Opportunity Copilot
 
 ---
 
-## 🌐 Live Web Application & Product Demo
+## 🌐 Live Web Application, Pitch Deck & Demo Video
 
 [![Live Web Application](https://img.shields.io/badge/Live_Web_App-rohinth--s.github.io%2FOppTrax-00a884?style=for-the-badge&logo=githubpages&logoColor=white)](https://rohinth-s.github.io/OppTrax/)
-[![View Product Demo Video](https://img.shields.io/badge/View_Product_Demo_Video-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NvuM3wm_IEOeaqhIG_Gyone6sVCOjzrA/view?usp=sharing)
+[![Product Demo Video](https://img.shields.io/badge/Product_Demo_Video-Google_Drive-FF0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1z8230nOtdXbRU6Nt5IQk6lSFXViGTaHG/view?usp=sharing)
+[![Pitch Deck PPT](https://img.shields.io/badge/Pitch_Deck-Google_Drive_PPT-D83B01?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://drive.google.com/file/d/14U6tv_X4PX0rmFIgxAUqqKRr2GWgdQmF/view?usp=sharing)
 
-> 🚀 **Live Link:** [https://rohinth-s.github.io/OppTrax/](https://rohinth-s.github.io/OppTrax/)
->
-> 🎥 **Video Demo:** [Watch Walkthrough](https://drive.google.com/file/d/1NvuM3wm_IEOeaqhIG_Gyone6sVCOjzrA/view?usp=sharing)
+| Resource | Direct Link | Folder / Repository Source |
+| :--- | :--- | :--- |
+| 🚀 **Live Web Application** | **[rohinth-s.github.io/OppTrax](https://rohinth-s.github.io/OppTrax/)** | [GitHub Pages Deployment](https://github.com/Rohinth-S/OppTrax/deployments) |
+| 🎥 **Product Demo Video** | **[Watch Demo Video (`.mp4`)](https://drive.google.com/file/d/1z8230nOtdXbRU6Nt5IQk6lSFXViGTaHG/view?usp=sharing)** | [Google Drive Video Folder](https://drive.google.com/drive/folders/1K3TraQ5s-Fv1-wgGgvjou5Em4W3cwnEm) |
+| 📊 **Pitch Deck & Presentation** | **[View Pitch Deck (`.pptx`)](https://drive.google.com/file/d/14U6tv_X4PX0rmFIgxAUqqKRr2GWgdQmF/view?usp=sharing)** | [Google Drive PPT Folder](https://drive.google.com/drive/folders/1TmDT2yOzbOkNWtqzP1h9oE5XoGvVrmej) · [Repo PPTX](docs/OppTrax_Presentation.pptx) |
 
 ---
 
