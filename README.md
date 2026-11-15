@@ -20,6 +20,8 @@ OppTrax is a bilingual (English + Hindi) WhatsApp and Web AI Opportunity Copilot
 
 ## Key Architecture & Stack
 
+![OppTrax Distributed Enterprise Cloud Architecture](docs/architecture_diagram.png)
+
 - **LiveScout Real-Time Discovery (`Backend/services/live_scout.py`)**: Zero-key concurrent opportunity search and continuous scouting across Unstop (hackathons, internships, jobs, conferences), Devpost, Remotive, Arbeitnow, and web feeds with bilingual Hindi/English query understanding and profile scoring.
 - **Sarvam AI Bilingual Intelligence (`Backend/services/ai_engine.py`, `Backend/config.py`)**: Live English/Hindi Q&A, voice-note transcription, and natural Hindi translation via Sarvam AI (with automatic Gemini support when configured and deterministic bilingual fallbacks).
 - **Meta WhatsApp Cloud API (`Backend/routers/whatsapp_webhook.py`, `Backend/services/whatsapp_api.py`)**: Interactive opportunity cards, OTP verification, one-tap tracking, Q&A mode, and automated deadline countdown reminders.
